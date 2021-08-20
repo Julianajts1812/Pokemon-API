@@ -1,2 +1,2 @@
-# Pokemon-API
+# Pokemon
 Desafio proposto por Cappacita Dev
